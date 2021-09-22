@@ -1,3 +1,7 @@
 public class linuxTest1{
-	Scanner sc=new Scanner(System.in);
+	public static void main(String[] orgs){
+		
+		System.out.println("hello java");
+	}
+}
 	
