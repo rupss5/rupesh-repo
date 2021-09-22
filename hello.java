@@ -1,3 +1,6 @@
-public class HelloJava{
-	Scanner sc=new Scanner(system.in);
-	System.out.println("Hello java");
+public class hello{
+
+public static void main(String[] args){
+System.out.println("Hello java Done");
+}
+}
